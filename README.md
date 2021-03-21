@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a Software Engineer looking for opportunities ! 
+- I'm a Software Engineer looking for new opportunities ! 
 - 📫 Feel free to reach me at [gordonmes@gmail.com](mailto:gordonmes@gmail.com)
 
 #### What do I use ? 
